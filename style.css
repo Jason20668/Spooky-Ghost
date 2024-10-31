@@ -111,17 +111,17 @@ body {
     content: ' ';
     width: 36px;
     height: 36px;
-    background: #f2fbf1;
+    background: rgb(63, 235, 212);
     border-radius: 50%;
 }
 
 #shadow {
     margin: -90px auto 0;
-    background: #252c49;
+    background: rgb(45, 161, 146);
     width: 180px;
     height: 40px;
     border-radius: 50%;
-    animation: zoomy 2s infinite;
+    animation: zoomy 0.00001s infinite;
 }
 
 @keyframes floaty {
