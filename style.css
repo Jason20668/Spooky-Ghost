@@ -48,7 +48,7 @@ body {
     width: 36px;
     height: 36px;
     border-radius: 50%;
-    background: rgb(63, 235, 212);
+    background: red;
     animation: floaty 0.00001s infinite;
 }
 
