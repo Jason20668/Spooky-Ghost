@@ -75,12 +75,12 @@ body {
     display: block;
     width: 30px;
     height: 30px;
-    background: #252c49;
+    background: red;
     border-radius: 50%;
 }
 
 #spooky #body #mouth {
-    background: #252c49;
+    background: red;
     margin: 25px auto 0;
     width: 60px;
     height: 30px;
