@@ -6,7 +6,9 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0;
-    background: #424f6f;
+    background: url(imgs/Halloween.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #container {
@@ -14,7 +16,7 @@ body {
     height: 400px;
     padding: 0;
     box-sizing: border-box;
-    background: #424f6f;
+    background: transparent;
 }
 
 *:after,
