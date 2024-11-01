@@ -11,6 +11,13 @@ body {
     background-size: cover;
 }
 
+p {
+    color: white;
+    position: fixed;
+    font-size: 50px;
+    padding-top: 425px;
+}
+
 #container {
     width: 400px;
     height: 400px;
